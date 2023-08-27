@@ -1,2 +1,2 @@
-# learning-go
+# Learning Go Languajes
 Learning Go Languajes
