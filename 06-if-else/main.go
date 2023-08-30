@@ -37,4 +37,8 @@ func main() {
 		fmt.Println("The number is: ", value)
 	}
 
+	// if with statement initialization
+	if x := 100; x == 100 {
+		fmt.Println("Is equal")
+	}
 }
