@@ -26,4 +26,15 @@ func main() {
 		fmt.Println(" You are swimming right now")
 	}
 
+	// without condition
+	value:=200
+	switch {
+	case value >200:
+		fmt.Println("It´s mayor")
+	case value ==200:
+		fmt.Println("It is equal")
+	default:
+		fmt.Println("Error.")
+	}
+
 }
